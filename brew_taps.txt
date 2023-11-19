@@ -1,0 +1,13 @@
+clojure-lsp/brew
+cloudflare/cloudflare
+d12frosted/emacs-plus
+homebrew-ffmpeg/ffmpeg
+homebrew/bundle
+homebrew/cask
+homebrew/cask-fonts
+homebrew/core
+homebrew/services
+oven-sh/bun
+petere/postgresql
+universal-ctags/universal-ctags
+xcodesorg/made
